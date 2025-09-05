@@ -1,5 +1,8 @@
 ## Book
-- [Pythonと実例で学ぶ微分方程式](https://www.coronasha.co.jp/np/isbn/9784339029468/)
+- [Pythonと実例で学ぶ微分方程式](https://www.coronasha.co.jp/np/isbn/9784339061239/)
+- Purchase Date: YYMMDD (kinoppy)
+
+<img src="https://www.coronasha.co.jp/imgs/cover/9784339061239.jpg" height=150px>
 
 ## CheckList
 - [ ] 1. 変数分離形の微分方程式
